@@ -16,6 +16,8 @@ A bot to post messages to Telegram Groups or Channels from rss feed.
 - `MAX_INSTANCES` - Max instances to be used while checking rss feed. (optional)
 
 ### Deployment
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
 - Install requirements from [requirements.txt](./requirements.txt)
 ```
 pip3 install requirements.txt
