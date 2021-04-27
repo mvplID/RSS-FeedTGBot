@@ -33,8 +33,7 @@
 	   "LOG_CHANNEL": {		   
 		   "description": "ID of the Telegram Channel where messages are to be posted (with -100)",
 		   "value": "-100"
-		    }
-   }
+		    },
        "MAX_INSTANCES": {		   
 		   "description": "Max instances to be used while checking rss feed. (optional)",
 		   "value": ""
