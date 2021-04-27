@@ -5,38 +5,4 @@
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
 	"keywords": "RSS",
 	"addons": "heroku-postgresql:hobby-dev",
-    "env": {
-		"API_HASH": {
-			"description": "Telegram API Hash",
-			"value":"44d2d67eb25eca2f7c12784db5972bdd"
-		},
-       "APP_ID": {
-         "description": "Telegram API ID",
-         "value": "1305269"
-       },
-	   "BOT_TOKEN": {
-		   "description": "API Token Bot",
-		   "value": ""
-			  }, 
-	   "ENV": {		   
-		   "description": "Set to ANYTHING",
-		   "value": "ANYTHING"
-		  },
-	   "FEED_URL": {		   
-		   "description": "URL RSS Feed",
-		   "value": ""
-		  },
-	   "INTERVAL": {		   
-		   "description": "Interval Update (second)",
-		   "value": "600"
-		  },
-	   "LOG_CHANNEL": {		   
-		   "description": "ID of the Telegram Channel where messages are to be posted (with -100)",
-		   "value": "-100"
-		    },
-       "MAX_INSTANCES": {		   
-		   "description": "Max instances to be used while checking rss feed. (optional)",
-		   "value": ""
-		    }
-}
 }
