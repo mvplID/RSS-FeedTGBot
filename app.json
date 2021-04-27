@@ -1,6 +1,10 @@
 {
-	"name": "RSS Telegram Bot",
-	"description": "RSS Telegram Bot",
-	"repository": "https://github.com/mvplID/RSS-FeedTGBot",
-	"addons": "heroku-postgresql:hobby-dev",
+  "name": "Telegram Bot",
+  "description": "A Telegram Bot",
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "https://github.com/mvplID/RSS-FeedTGBot",
+  "success_url": "https://github.com/mvplID/RSS-FeedTGBot",
+  "website": "https://github.com/mvplID/RSS-FeedTGBot"
 }
