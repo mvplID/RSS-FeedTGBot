@@ -3,8 +3,8 @@
 	"description": "RSS Telegram Bot",
 	"repository": "https://github.com/mvplID/RSS-FeedTGBot",
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
-	"keywords": ["RSS"]
-	"addons": ["heroku-postgresql:hobby-dev"],
+	"keywords": "RSS",
+	"addons": "heroku-postgresql:hobby-dev",
     "env": {
 		"API_HASH": {
 			"description": "Telegram API Hash",
